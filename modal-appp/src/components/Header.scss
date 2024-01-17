@@ -1,0 +1,47 @@
+
+body {
+  font-family: Comfortaa;
+}
+.header {
+    display: flex;
+    justify-content: flex-end;
+    padding: 50px;
+    background-color: #333;
+    color: #fff;
+    .cart,
+    .favorites {
+      display: flex;
+      align-items: center;
+  
+      img {
+        width: 30px;
+        margin-right: 5px;
+      }
+  
+      span {
+        font-weight: bold;
+      }
+    }
+    .icon-container {
+      margin-left: 20px;
+      position: relative;
+  
+      .count {
+        position: absolute;
+        top: 0;
+        right: 0;
+        background-color: red;
+        color: #fff;
+        padding: 3px 6px;
+        border-radius: 50%;
+      }
+    }
+  
+    i {
+      font-size: 24px;
+    }
+  }
+
+
+
+  

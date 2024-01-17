@@ -1,0 +1,82 @@
+
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Product 1",
+      "price": 25.99,
+      "image": "/images/apple.png",
+      "article": "123456",
+      "color": "Blue"
+    },
+    {
+      "id": 2,
+      "name": "Product 2",
+      "price": 19.99,
+      "image": "/images/apple.png",
+      "article": "789012",
+      "color": "Red"
+    },
+    {
+      "id": 3,
+      "name": "Product 3",
+      "price": 36.50,
+      "image": "/images/apple.png",
+      "article": "1234526",
+      "color": "Pink"
+    },
+    {
+      "id": 4,
+      "name": "Product 4",
+      "price": 43.78,
+      "image": "/images/apple.png",
+      "article": "7890512",
+      "color": "Yellow"
+    }, {
+      "id": 5,
+      "name": "Product 5",
+      "price": 16.99,
+      "image": "/images/apple.png",
+      "article": "123243456",
+      "color": "White"
+    },
+    {
+      "id": 6,
+      "name": "Product 6",
+      "price": 24.64,
+      "image": "/images/apple.png",
+      "article": "7893012",
+      "color": "Orange"
+    }, {
+      "id": 7,
+      "name": "Product 7",
+      "price": 49.33,
+      "image": "/images/apple.png",
+      "article": "123422256",
+      "color": "Purple"
+    },
+    {
+      "id": 8,
+      "name": "Product 8",
+      "price": 27.07,
+      "image": "/images/apple.png",
+      "article": "789056512",
+      "color": "Black"
+    }, {
+      "id": 9,
+      "name": "Product 9",
+      "price": 31.79,
+      "image": "/images/apple.png",
+      "article": "123475456",
+      "color": "Grey"
+    },
+    {
+      "id": 10,
+      "name": "Product 10",
+      "price": 19.21,
+      "image": "/images/apple.png",
+      "article": "789031212",
+      "color": "Green"
+    }
+  ]
+}
