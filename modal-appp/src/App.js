@@ -71,8 +71,6 @@ const App = () => {
           customClass="cart-modal"
         />
       )}
-
-      {/* Модальне вікно обраного */}
       {showFavoriteModal && (
         <Modal
           header="Favorite Items"
